@@ -54,17 +54,20 @@
 
 ### 🧩 Featured Projects
 
-- **EchoWrite – AI Audio Transcription App**  
-  → Converts audio to text using **Groq (Whisper)** with Spring Boot + React  
+### Featured Projects
 
--  **AI Health Tracker**  
-  → Tracks health data with **JWT-secured APIs** and AI-based activity predictions  
+- **EchoWrite – AI Audio Transcription App**  
+  Converts audio to text using Groq (Whisper) with Spring Boot and React
+  
+- **AI Health Tracker**  
+  Tracks health data using JWT-secured APIs with AI-based activity predictions  
 
 - **Real-Time Chat App**  
-  → Enables live messaging using **WebSockets with concurrent user handling**  
+  Enables live messaging using WebSockets with concurrent user handling  
 
--  **AI Email Assistant**  
-  → Generates smart replies using **Gemini API for automated email workflows**  
+- **AI Email Assistant**  
+  Generates smart replies using Gemini API for automated email workflows  
+
 
 ---
 
