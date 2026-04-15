@@ -32,7 +32,7 @@
 
 ### 🧠 Key Highlights
 
-- 🚆 Built **10+ REST APIs** during internship (Indian Railways)
+- 🚆 Built **10+ REST APIs** during internship 
 - ⚡ Optimized SQL queries → improved performance significantly  
 - 🔐 Implemented **JWT Authentication + RBAC**
 - 💬 Built real-time chat using **WebSockets**
@@ -81,7 +81,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simran-bakshi/simran-bakshi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/simran-bakshi/simran-kaur-bakshi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
