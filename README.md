@@ -32,11 +32,11 @@
 
 ### 🧠 Key Highlights
 
-- 🚆 Built **10+ REST APIs** during internship 
-- ⚡ Optimized SQL queries → improved performance significantly  
-- 🔐 Implemented **JWT Authentication + RBAC**
-- 💬 Built real-time chat using **WebSockets**
-- 🤖 Applied **Linear Regression for predictions**  
+- Built **10+ REST APIs** during internship 
+- Optimized SQL queries → improved performance significantly  
+- Implemented **JWT Authentication + RBAC**
+- Built real-time chat using **WebSockets**
+- Applied **Linear Regression for predictions**  
 
 ---
 
