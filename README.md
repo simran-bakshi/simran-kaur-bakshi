@@ -36,7 +36,7 @@
 - ⚡ Optimized SQL queries → improved performance significantly  
 - 🔐 Implemented **JWT Authentication + RBAC**
 - 💬 Built real-time chat using **WebSockets**
-- 🤖 Applied **Linear Regression for predictions (AI project)**  
+- 🤖 Applied **Linear Regression for predictions**  
 
 ---
 
@@ -61,7 +61,10 @@
   → WebSocket based messaging system  
 
 - ✉️ **AI Email Assistant**  
-  → Gemini API + automated responses  
+  → Gemini API + automated responses
+
+🎙️ **EchoWrite – AI Audio Transcription App**  
+  → Converts audio to text using **Groq (Whisper)** with Spring Boot + React 
 
 ---
 
